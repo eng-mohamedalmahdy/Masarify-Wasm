@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="adf35bb9-36a4-4843-9128-0a6254b028e5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/productionExecutable.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7fd9feafdb08597023ba.wasm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/animated_logo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/composeApp.js" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composeApp.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo_transparent.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/localization/techlightfeatherdesignsystem_stringsJson.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/localization/techlightfeatherdesignsystem_stringsJson_ar.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="3FAzAKbq1te50HrAt4UnxGKAqiB" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/mahdy/StudioProjects/Masarify System/Masarify Frontend/composeApp/build/dist/wasmJs/productionExecutable",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adf35bb9-36a4-4843-9128-0a6254b028e5" name="Changes" comment="" />
+      <created>1781532516788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1781532516788</updated>
+    </task>
+    <servers />
+  </component>
+</project>
