@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adf35bb9-36a4-4843-9128-0a6254b028e5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/productionExecutable.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7fd9feafdb08597023ba.wasm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/animated_logo.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp.js" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bg.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo_transparent.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/localization/techlightfeatherdesignsystem_stringsJson.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/localization/techlightfeatherdesignsystem_stringsJson_ar.json" beforeDir="false" />
-    </list>
+    <list default="true" id="adf35bb9-36a4-4843-9128-0a6254b028e5" name="Changes" comment="update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +44,21 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="git push -f" />
+      <command value="git push --force" />
+      <command value="git push --force-with-lease origin main " />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AppleRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" IS_LOCATION_SIMULATION_SUPPORTED="false" IS_LOCATION_SIMULATION_ALLOWED="true" APPLICATION_LANGUAGE="IDELaunchSchemeLanguageUseSystemLanguage" APPLICATION_REGION="" DEVELOPMENT_TEAM="" MAKE_ACTIVE="TRUE" SHOULD_DEBUG_EXTENSIONS="false">
+      <embedded_app_extension_list />
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="adf35bb9-36a4-4843-9128-0a6254b028e5" name="Changes" comment="" />
@@ -69,6 +67,19 @@
       <option name="presentableId" value="Default" />
       <updated>1781532516788</updated>
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <option name="closed" value="true" />
+      <created>1781533319760</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1781533319760</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
