@@ -1,0 +1,19 @@
+{
+  "name": "Masarify",
+  "short_name": "Masarify",
+  "description": "Track smart, spend wiser.",
+  "start_url": "/Masarify-Wasm/",
+  "scope": "/Masarify-Wasm/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#6750A4",
+  "background_color": "#FFFBFE",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
